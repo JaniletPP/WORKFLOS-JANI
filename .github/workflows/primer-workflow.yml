@@ -6,6 +6,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-  steps:
-    - name: Mostrar mensaje
-      run: echo "hola desde github Actions"
+    steps:
+      - name: Mostrar mensaje
+        run: echo "hola desde github Actions"
